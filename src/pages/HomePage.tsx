@@ -44,7 +44,7 @@ export default function HomePage({ onNavigate, onViewProduct }: HomePageProps) {
       <section className="relative min-h-[90vh] md:min-h-screen flex items-center overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/hero-bg.jpg"
+            src="/Damascus-perfume/images/hero-bg.jpg"
             alt="Damascus Perfumes luxury collection"
             className="w-full h-full object-cover"
           />
