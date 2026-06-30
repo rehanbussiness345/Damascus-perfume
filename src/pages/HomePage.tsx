@@ -166,7 +166,7 @@ export default function HomePage({ onNavigate, onViewProduct }: HomePageProps) {
             <div className="relative">
               <div className="aspect-[4/5] overflow-hidden">
                 <img
-                  src="/images/brand-story.jpg"
+                  src="/Damascus-perfume/public/images/brand-story.jpg"
                   alt="Damascus Perfumes heritage"
                   className="w-full h-full object-cover"
                 />
